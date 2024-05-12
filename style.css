@@ -147,10 +147,11 @@ main {
 .about{
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
 }
 
 .about-dis {
-    width: 50%;
+    width: 45%;
     padding: 10% 5%;
 }
 
@@ -226,7 +227,7 @@ main {
 }
 
 .sub-cat {
-    width: 25%;
+    width: 300px;
 }
 
 .sub-cat p{
