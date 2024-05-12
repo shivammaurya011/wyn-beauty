@@ -145,13 +145,11 @@ main {
     color: #000;
 }
 .about{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    
 }
 
 .about-dis {
-    width: 45%;
+    width: 50%;
     padding: 10% 5%;
 }
 
@@ -222,8 +220,7 @@ main {
 
 .all-cat {
     display: flex;
-    flex-wrap: wrap;
-    gap: 25px;
+    gap: 15px;
 }
 
 .sub-cat {
